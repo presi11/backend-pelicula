@@ -1,0 +1,9 @@
+com\api\config\webConfig.class
+com\api\service\PeliculaServiceimp.class
+com\api\config\myWebAppInitializer.class
+com\api\dao\PeliculaDAO.class
+com\api\model\Pelicula.class
+com\api\service\PeliculaService.class
+com\api\controller\PeliculaController.class
+com\api\config\appConfig.class
+com\api\dao\PeliculaDAOimpl.class
